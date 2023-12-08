@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+    align-items: center;
+
+}
+
+.logo>img{
+width: 150px;
+height: auto;
+cursor: pointer;
+}
+.navbar-menu>ul{
+    list-style-type: none;
+    display: flex;
+    padding: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    gap: 45px;
+    font-size: 5 rem;
+    padding-right: 100px;
+}
+.navbar-menu>ul:hover{
+    cursor: pointer;
+}
+

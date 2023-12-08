@@ -1,0 +1,6 @@
+.footer{
+    background-color: green;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
